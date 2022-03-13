@@ -1,0 +1,7 @@
+GET http://localhost:9090/hello
+Accept: application/json
+
+<> 2022-03-07T151327.200.json
+<> 2022-03-07T150708.200.txt
+
+###
