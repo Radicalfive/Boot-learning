@@ -1,0 +1,18 @@
+#family:
+#  family-name: "happy family"
+#  father:
+#    name: tom
+#    age: 45
+#    email: radical@qq.com
+#  mother:
+#    alias:
+#      - rose
+#      - alice
+#  child:
+#    name: jack
+#    age: 8
+#    friends:
+#      - hobby: football
+#        gender: male
+#      - hobby: sing
+#        gender: female
